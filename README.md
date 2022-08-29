@@ -7,7 +7,7 @@ In this project you can find some basic exploratory analysis and the data prepar
 
 The model construction use decision trees and it was applied to it hypertune. 
 
-The pipelines builded is [here](src/app.py).
+The pipeline construction is [here](src/app.py).
 
 The dataset was obtained from this [link](https://raw.githubusercontent.com/4GeeksAcademy/decision-tree-project-tutorial/main/diabetes.csv) from the source:
 
