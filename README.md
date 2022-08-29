@@ -3,7 +3,7 @@
 
 The goal of this project is to classify patients having diabetes or no, based on their diagnostics.
 
-In this project you can find some basic exploratory analysis and the data preparation for modeling [here](src/explore-dt.ipynb).
+In this project you can find some basic exploratory analysis and the data preparation for modeling [here](src/explore_dt.ipynb).
 
 The model construction use decision trees and it was applied to it hypertune. 
 
